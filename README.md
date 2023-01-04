@@ -15,30 +15,35 @@ Higher Institute of Computer Science Mahdia(ISIMA),
 University of Monastir Tunisia
 
 
-#Title of the project:
+<h3>Title of the project:</h3>
 DiaTech
 
-#Description:
+<h3>Description:</h3>
 IoT system for managing patients' health data, providing medical reports and personalized diet recommendations, 
 and predicting insulin doses using machine learning  
 
-#Objectif:
--Our solution is to develop an IOT system consisting of: 
--Integration of a web/mobile application which permits:
-Enter patient health data 
-Provide a medical report for the Patient and doctor 
-Recommend a personalized diet 
-Managing Patients for the doctor
-calculate and using machine learning to predict insulin doses
--The definition of a connected object 
-Which is able to capture glucose levels 
-Which is able to dosing insulin 
+<h3>Objectif:</h3>
+-Our solution is to develop an IOT system consisting of: <br>
+-Integration of a web/mobile application which permits:<br>
+Enter patient health data <br>
+Provide a medical report for the Patient and doctor <br>
+Recommend a personalized diet <br>
+Managing Patients for the doctor<br>
+calculate and using machine learning to predict insulin doses<br>
+-The definition of a connected object <br>
+Which is able to capture glucose levels <br>
+Which is able to dosing insulin <br>
 
-#List of devices:
-Raspberry pi 4
-esp8266
+<h3>List of devices:</h3>
+Raspberry pi 4<br>
+esp8266<br>
+Max30205<br>
 
 
 
-Installation and prepartion instrcutions: 
-..........................................
+
+<h3>Installation and prepartion instrcutions:</h3> 
+- first you need to connect devices ech other
+- install the code on your carte
+- install the application 
+- connect the application with your carte
