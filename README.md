@@ -43,7 +43,7 @@ Max30205<br>
 
 
 <h3>Installation and prepartion instrcutions:</h3> 
-- first you need to connect devices ech other
-- install the code on your carte
-- install the application 
-- connect the application with your carte
+- first you need to connect devices ech other <br>
+- install the code on your carte <br>
+- install the application <br>
+- connect the application with your carte <br>
