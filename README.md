@@ -45,5 +45,5 @@ Max30205<br>
 <h3>Installation and prepartion instrcutions:</h3> 
 - first you need to connect devices ech other <br>
 - install the code on your carte <br>
-- install the application <br>
+- Install the web or mobile application on your device by visiting the app store or website and following the prompts. <br>
 - connect the application with your carte <br>
